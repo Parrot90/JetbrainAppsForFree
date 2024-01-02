@@ -1,3 +1,10 @@
+
+THIS TUTORIAL IS NOT WRITTEN BY ME BUT IT IS TESTED BY ME AND IT WORKS EVEN IN 2024 
+
+THIS HELPS STUDENTS TO WORK WITH PROFESSIONAL VERSION ONLY FOR EDUCATIONAL PURPOSE 
+
+BUY THE ORIGINAL VERSION TO SUPPORT DEVLOPERS !!! 
+
 I think that this tutorial will be useful to many. JetBrains products are quite popular, but not everyone has the money to buy a software subscription .
 
 For example, for students, the company provides a license for its software for a year with some restrictions (it seems that there is even an extension). In this article I will tell you how to activate any product from JetBrains (PyCharm, PhpStorm, Webstorm and others) for free without any registration and SMS.
